@@ -1,4 +1,7 @@
 # Booki
+
+Find the deployed page here: 👉 https://booki-mockup.netlify.app/
+ 
 ### Responsive website for Booki
 
 Before approving a final version of the design the company has decided to create a prototype.
