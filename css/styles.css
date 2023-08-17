@@ -173,13 +173,8 @@ nav a {
     margin-left: -10px;
 }
 
-.filter-icon-child {
-    color: #0065FC;
-    background-color: #DEEBFF;
-    border-radius: 100%;
+.child {
     padding: 15px 18px;
-    margin-right: 10px;
-    margin-left: -10px;
 }
 
 .filter-info {
@@ -613,7 +608,7 @@ footer a:hover {
     }
 
     .filter-button {
-        margin-left: 0;
+        margin-left: 5px;
         margin-bottom: 5%;
         height: 75px;
         padding-right: 30px;
@@ -632,12 +627,11 @@ footer a:hover {
         font-size: 2em;
         padding: 18px;
         margin-right: 0px;
+        margin-left: -20px;
     }
 
-    .filter-icon-child {
-        font-size: 2em;
+    .child {
         padding: 18px 24px;
-        margin-right: 0px;
     }
 
     #LC {
